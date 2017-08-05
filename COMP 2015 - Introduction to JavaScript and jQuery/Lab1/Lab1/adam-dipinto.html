@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<meta content="text/html; charset=utf-8" http-equiv="Contetn-Type">
+<meta content="utf8" http-equiv="encoding">
+<head>
+
+<script language ="javascript" src="adam-dipinto.js" defer="defer"></script>
+
+<script>
+
+alert(navigator.appName);
+var x = 10;
+var y = 20;
+var sum = parseInt(x) + parseInt(y);
+alert(sum);
+</script>
+</head>
+<body>
+<p>
+<img src="dog.jpg" id="d" name="d">
+</p>
+
+<p>
+<img src="cat.jpg" id="c" name="c">
+</p>
+
+<p>
+<img src="bird.jpg" id="b" name="b">
+</p>
+
+<script>
+var catWidth = document.getElementById("c").width;
+document.getElementById("d").width = catWidth;
+</script>
+</body>
+</html>

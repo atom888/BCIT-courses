@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LamborghiniDealershipGroup
+comment1.params=
+comment1.target=LamborghiniDealershipGroup()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LamborghiniDealershipGroup\n
+comment2.params=dealershipGroupName
+comment2.target=void\ LamborghiniDealershipGroup(java.lang.String)
+comment2.text=\n\ [LamborghiniDealershipGroup\ description]\n\ @param\ \ dealershipGroupName\ name\ of\ dealership\n
+comment3.params=carLot
+comment3.target=void\ addCarLot(LamborghiniCarLot)
+comment3.text=\n\ [addCarLot\ description]\n\ @param\ \ carLot\ name\ of\ carlot\n
+comment4.params=
+comment4.target=int\ getTotalInventoryCount()
+comment4.text=\n\ [getTotalInventoryCount\ description]\n\ @return\ number\ of\ cars\ in\ carlot\n
+comment5.params=modelName
+comment5.target=boolean\ hasModelName(java.lang.String)
+comment5.text=\n\ [hasModelName\ description]\n\ @param\ \ \ modelName\ \ \ \ \ name\ of\ the\ model\n\ @return\ \ \ \ \ \ \ \ true\ if\ the\ model\ name\ matches\ a\ car\ in\ the\ carlot\n
+comment6.params=modelYear\ lowHP\ highHP
+comment6.target=LamborghiniCarLot[]\ getAllCarLotsWithAverageHorsepowerInRangeForYear(int,\ double,\ double)
+comment6.text=\n\ [getAllCarLotsWithAverageHorsepowerInRangeForYear\ description]\n\ @param\ \ modelYear\ \ \ \ \ year\ of\ model\ -\ between\ 0\ and\ current\ year\n\ @param\ \ lowHP\ \ \ \ \ \ \ \ \ min\ horsepower\ (0)\n\ @param\ \ highHP\ \ \ \ \ \ \ \ max\ horsepower\ (666)\n\ @return\ \ \ \ \ \ \ \ carlot\ with\ a\ car\ or\ multiple\ cars\ matching\ requirements\ \n
+numComments=7

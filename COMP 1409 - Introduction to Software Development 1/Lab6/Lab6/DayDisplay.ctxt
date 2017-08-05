@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=DayDisplay
+comment0.text=\n\ DayDisplay\ Class\n\n\ @author\ Adam\ Dipinto\n\ @version\ V1.0\ May\ 27\ 2017\n
+comment1.params=theDayNumber
+comment1.target=DayDisplay(int)
+comment1.text=\n\ This\ is\ the\ first\ constructor\ that\ expects\ the\ integer\ between\ 0\ to\ 6\ representing\ the\ day\ of\ the\ week\ to\ be\ stored\n\ in\ dayNumber\ \n\ @param\ int\ theDayNumber\n
+comment2.params=nameOfTheDay
+comment2.target=DayDisplay(java.lang.String)
+comment2.text=\n\ This\ second\ constructor\ takes\ a\ String\ parameter\ for\ the\ day\ of\ the\ week\n\ @param\ String\ nameOfTheDay\n
+comment3.params=theDay
+comment3.target=DayDisplay(NumberDisplay)
+comment3.text=\n\ Constructor\ 3\n\ @param\ NumberDislay\ theDay\n
+comment4.params=
+comment4.target=java.lang.String\ getDayOfTheWeek()
+comment4.text=\n\ getDayOfTheWeek\n\ @return\ the\ String\ value\ of\ the\ day\ of\ the\ week\ when\ dayNumber\ has\ an\ int\ value.\n
+comment5.params=
+comment5.target=int\ getDayOfTheWeekValue()
+comment5.text=\n\ getDayOfTheWeekValue\n\ @return\ the\ int\ value\ of\ the\ day\ of\ the\ week\ \n
+comment6.params=
+comment6.target=void\ incrementDay()
+comment7.params=
+comment7.target=java.lang.String\ getWhatDayIsTomorrow()
+comment7.text=\n\ @return\ a\ String\ corresponding\ to\ the\ next\ day.\ \n
+comment8.params=
+comment8.target=void\ printDetails()
+comment8.text=\nprintDetails\nprints\ a\ statement\ using\ the\ dayOfTheWeekValue\ and\ dayOfTheWeek\ String\n
+numComments=9

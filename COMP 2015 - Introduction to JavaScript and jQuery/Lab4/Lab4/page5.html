@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="utf8" http-equiv="encoding">
+<head>
+<link rel="stylesheet" href="css/stylePage5.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.corner/2.13/jquery.corner.js"></script>
+<script>
+$(document).ready(function() {
+  $('#t').click(function(){
+    $(this).corner("cool 20px").parent().css('padding', '10px').corner("cool 10px");
+  })
+})
+
+$(function (){
+  $('#f').click(function() {
+    $(this).corner("sharp 10px").parent().css('padding', '8px').corner("sharp 10px");
+  })
+})
+
+$(function() {
+  $('#d').click(function() {
+    $(this).corner("dog2 30px");
+  })
+
+})
+</script>
+
+</head>
+<body>
+
+  <a href="page1.html">page1</a>
+  <a href="page2.html">page2</a>
+  <a href="page3.html">page3</a>
+  <a href="page4.html">page4</a>
+  <a href="page5.html">page5</a>
+  <a href="page6.html">page6</a>
+
+
+  <div id="d">
+    <img src="imgs/dog.jpg">
+  </div>
+  <div id="t">
+    <img src="imgs/turtle.jpg">
+  </div>
+  <div id="f">
+    <img src="imgs/fish.jpg">
+  </div>
+
+</body>
+
+</html>

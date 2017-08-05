@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Main\ class\ relating\ to\ Planets.\n\n\ @author\ Adam\ Dipinto\n\ @version\ 1.0\ May\ 6th\ 2017\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ @return\ a\ print\ out\ statement\ of\ all\ eight\ planets\ information\ and\ if\ they\ are\ similar\ to\ Earth.\n
+numComments=2

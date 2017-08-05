@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Canada
+comment0.text=\n\ This\ Canada\ class\ will\ provide\ information\ relating\ to\ each\ provinces\ name,\ capital,\ largest\ city\ and\ details\n\n\ @author\ Adam\ Dipinto\n\ @version\ V1.0\ June\ 24\n
+comment1.params=
+comment1.target=void\ Canada()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Canada\n
+comment2.params=provinceIn
+comment2.target=java.lang.String\ getCapitalCityOf(java.lang.String)
+comment2.text=\n\ @return\ getCapitalCityOf\ -\ returns\ the\ capital\ city\ of\ the\ province\ provided\n\ @param\ provinceIn\ -\ the\ suggested\ province\ for\ finding\ the\ capital\ city\n
+comment3.params=provinceIn
+comment3.target=java.lang.String\ getLargestCityOf(java.lang.String)
+comment3.text=\n\ @return\ getLargestCityOf\ -\ returns\ the\ largest\ city\ of\ the\ province\ provided\n\ @param\ provinceIn\ -\ the\ suggested\ province\ for\ finding\ the\ largest\ city\n
+comment4.params=city
+comment4.target=java.lang.String\ getProvinceWhoseCapitals(java.lang.String)
+comment4.text=\n\ @return\ getProvinceWhoseCapitals\ -\ returns\ the\ name\ of\ the\ province\ based\ on\ the\ capital\ city\ provided\n\ @param\ city\ -\ the\ suggested\ city\ for\ finding\ the\ province\n
+comment5.params=
+comment5.target=void\ displayAllProvinceInfo()
+comment5.text=\n\ displayAllProvicneInfo\ -\ dissplays\ all\ information\ relating\ to\ the\ provicne\n
+comment6.params=province
+comment6.target=int\ setProvince(java.lang.String)
+comment6.text=\n\ @param\ province\ -\ the\ suggested\ province\ to\ set\n\ @return\ -\ returns\ the\ in\ value\ of\ the\ provided\ province\n
+comment7.params=
+comment7.target=java.lang.String\ getProvince()
+comment7.text=\n\ @return\ getProvince\ -\ returns\ the\ name\ of\ the\ province\ \n
+numComments=8

@@ -1,0 +1,57 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4
+-d
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/E97D7C0C-56A6-4B93-8712-3A18F916DCB5/d/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java
+<---- end of javadoc command ---->
+Loading source file /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_121
+Building tree for all the packages and classes...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/Model.html...
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:50: warning - @param argument "cCanTravel" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:238: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:282: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:319: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:161: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:198: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:191: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:175: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:228: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:168: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:221: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:206: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:214: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:259: warning - @returns is an unknown tag.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/Model.java:138: warning - @params is an unknown tag.
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/package-frame.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/package-summary.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/allclasses-frame.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/allclasses-noframe.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/index.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Lab4/doc/stylesheet.css...
+15 warnings

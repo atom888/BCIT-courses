@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestAssignment
+comment0.text=\n\ This\ TestAssignment\ Class\ will\ test\ the\ classes\ in\ this\ package\ (Date,\ Name,\ Director,\ Movie,\ TestDate).\n\ \n\ @author\ James\ McCartney\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=TestAssignment()
+comment1.text=\n\ This\ default\ constructor\ for\ the\ TestAssignment\ tests\ the\ various\ classes.\ Expected\ output\ below.\n
+numComments=2

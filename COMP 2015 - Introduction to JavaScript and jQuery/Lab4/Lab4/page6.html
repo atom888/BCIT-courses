@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="utf8" http-equiv="encoding">
+<head
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="css/stylePage6.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( document ).tooltip({
+      position: {
+        my: "center bottom-20",
+        at: "center top",
+        using: function( position, feedback ) {
+          $( this ).css( position );
+          $( "<div>" )
+            .addClass( "arrow" )
+            .addClass( feedback.vertical )
+            .addClass( feedback.horizontal )
+            .appendTo( this );
+        }
+      }
+    });
+  } );
+  </script>
+</head>
+<body>
+
+  <a href="page1.html">page1</a>
+  <a href="page2.html">page2</a>
+  <a href="page3.html">page3</a>
+  <a href="page4.html">page4</a>
+  <a href="page5.html">page5</a>
+  <a href="page6.html">page6</a>
+
+  <div class="container">
+    <p>In <a href="#" title="The natural science that involves the study of matter and its motion and behaviour through space and time.">physics</a>, the observer effect is the fact that simply observing a situation or <a href="#" title="Any thing which manifests itself">phenomenon</a> necessarily changes that phenomenon. This is often the result of instruments that, by necessity, alter the state of what they measure in some manner. A commonplace example is checking the pressure in an automobile tire; this is difficult to do without letting out some of the air, thus changing the pressure. Similarly, it is not possible to see any object without light hitting the object, and causing it to emit light. While the effects of observation are often negligible, the object still experiences a change. This effect can be observed in many domains of physics and can often be reduced to insignificance by using different instruments or observation techniques.</p>
+
+    <p>An especially unusual version of the observer effect occurs in <a href="#" title="A branch of physics which is the fundamental theory of nature at small scales and low energy levels of atoms and subatomic particals">quantum mechanics</a>. Physicists have found that even passive observation of quantum phenomena (i.e. observations that do not directly act upon the phenomena), can actually change the phenomena; the 1998 Weizmann experiment is a particularly famous example. These findings have led to speculation that the conscious mind can actually affect reality, though most physicists today consider this to be a misconception of quantum mechanics. It is rooted in a misunderstanding of the quantum wave function ψ and the quantum measurement process.</p>
+    <p>Reference: <a href="https://en.wikipedia.org/wiki/Quantum_mechanics">Wikipedia</a></p>
+  </div>
+
+</body>
+
+</html>

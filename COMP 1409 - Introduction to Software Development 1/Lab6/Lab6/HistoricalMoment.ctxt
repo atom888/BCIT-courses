@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HistoricalMoment
+comment0.text=\n\ Write\ a\ description\ of\ class\ HistoricalMoment\ here.\n\n\ @author\ Adam\ Dipinto\n\ @version\ V1.0\ Jun3\ 2017\n
+comment1.params=
+comment1.target=HistoricalMoment()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ HistoricalMoment\n
+comment2.params=nameOfTheEvent
+comment2.target=HistoricalMoment(java.lang.String)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ HistoricalMoment\n
+comment3.params=nameOfTheEvent\ theTime
+comment3.target=HistoricalMoment(java.lang.String,\ ClockDisplay)
+comment3.text=\n\ Constructor\ for\ objects\ of\ class\ HistoricalMoment\n
+comment4.params=
+comment4.target=void\ addMinuteToTimeOfEvent()
+comment4.text=\n\ Add\ one\ minute\ to\ the\ time\ value\n
+comment5.params=
+comment5.target=void\ printDetails()
+comment5.text=\n\ Print\ historical\ moment\n
+numComments=6

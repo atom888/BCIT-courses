@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<meta content="text/html; charset=utf-8" http-equiv="content-type-Type">
+<meta content="utf8" http-equiv="encoding">
+<head>
+
+<script>
+onload = function start(){
+
+  var imgs = document.getElementsByTagName('img');
+
+
+  for (let i = 0; i < imgs.length; i++) {
+    imgs[i].style.border = "red solid 1px";
+  }
+
+}
+</script>
+
+<style>
+img {
+  width: 250px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+  <div>
+    <img src="images/dog.jpg"></img>
+    <img src="images/cat.jpg"></img>
+    <img src="images/bird.jpg"></img>
+  <div>
+
+
+
+</body>
+
+<script>
+function christmas() {
+  var christmasDate = new Date;
+  christmasDate.setFullYear(2017,11,25);
+
+  var today = new Date();
+  var difference = christmasDate.getTime() - today.getTime();
+
+  var minutes = 1000*60;
+  var hours = minutes*60;
+  var days = hours*24;
+
+  window.alert(Math.round(difference/days) + " days until Christmas")
+}
+document.onload = christmas();
+
+</script>
+</html>

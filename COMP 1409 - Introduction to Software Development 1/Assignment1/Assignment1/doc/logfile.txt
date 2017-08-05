@@ -1,0 +1,50 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1
+-d
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/private/var/folders/py/ncntxv2x6893xhlcxb4qg_kw0000gn/T/AppTranslocation/948F0F4B-7793-47A2-A5A0-5045EDB9C2B5/d/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java
+<---- end of javadoc command ---->
+Loading source file /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_121
+Building tree for all the packages and classes...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/Boat.html...
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:40: warning - @param argument "new" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:195: warning - @return tag cannot be used in method with void return type.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:115: warning - @param argument "setHorsepower" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:105: warning - @param argument "setManufacturer" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:95: warning - @param argument "setModelName" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:83: warning - @param argument "setModelYear" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:127: warning - @param argument "setTwinEngine" is not a parameter name.
+/Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/Boat.java:133: warning - @param argument "setWebpage" is not a parameter name.
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/package-frame.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/package-summary.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/allclasses-frame.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/allclasses-noframe.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/index.html...
+Generating /Users/androidadam/Desktop/Adam/BCIT/COMP1409/BlueJ/Assignment1/doc/stylesheet.css...
+8 warnings

@@ -1,0 +1,17 @@
+h3 {
+  background-color: #607d8b;
+}
+
+#accordion {
+  width: 500px;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.ui-accordion-content {
+  background-color: white;
+}
+
+body {
+    background-color: #b6c4cc;
+}
