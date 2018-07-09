@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Games()
+comment0.text=\r\n\ Games\ Constructor\r\n\r\n
+comment1.params=
+comment1.target=void\ textParser()
+comment1.text=\r\n\ Method\ textParser\r\n\r\n
+comment2.params=
+comment2.target=void\ playChicage()
+comment2.text=\r\n\ Method\ playChicage\r\n\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ @param\ args\r\n
+numComments=4

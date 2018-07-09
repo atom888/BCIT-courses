@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Die()
+comment0.text=\r\n\ \ constructor\r\n
+comment1.params=
+comment1.target=int\ roll()
+comment1.text=\r\n\ @return\ the\ die\ face\ value\r\n
+comment2.params=
+comment2.target=int\ getFaceValue()
+comment2.text=\r\n\ @return\ the\ faceValue\r\n
+comment3.params=
+comment3.target=java.util.Random\ getRandom()
+comment3.text=\r\n\ @return\ the\ random\r\n
+numComments=4
