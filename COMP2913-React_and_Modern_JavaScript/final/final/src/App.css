@@ -1,0 +1,16 @@
+.profiles {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+button {
+  font-family: inherit;
+  width: 100%;
+  font-size: 1em;
+  color: white;
+  border: none;
+  padding: 0.8em;
+  border-radius: 0.2em;
+  background: rgba(0, 0, 0, 0.2);
+}

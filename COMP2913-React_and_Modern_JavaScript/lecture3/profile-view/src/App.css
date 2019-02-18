@@ -1,0 +1,45 @@
+.profiles {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.loginMain {
+  /* display: flex; */
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+  height: 100vh;
+}
+
+.login {
+  font-family: inherit;
+  padding: 1em;
+  border-radius: 0.5em;
+  background-color: #83d2d8;
+  box-shadow: 0 0 16px 0 rgba(0,0,0,0.1);
+  position: relative;
+  /* display: flex; */
+  justify-content: center;
+  margin: 150px;
+  width: 250px;
+}
+
+.input {
+  width: 90%;
+	padding: 0.8em;
+	margin-bottom: 1em;
+	border-radius: 0.5em;
+	background: rgba(255, 255, 255, 0.1);
+}
+
+button {
+	font-family: inherit;
+	width: 100%;
+	font-size: 1em;
+	color: white;
+	border: none;
+	padding: 0.8em;
+	border-radius: 0.2em;
+	background: rgba(0, 0, 0, 0.2);
+}
